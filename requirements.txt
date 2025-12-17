@@ -1,0 +1,5 @@
+opencv-python>=4.7.0
+numpy>=1.25.0
+pyttsx3>=2.90
+insightface>=0.8.5
+onnxruntime>=1.15.0
